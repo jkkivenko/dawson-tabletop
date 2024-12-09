@@ -1,0 +1,3 @@
+#WIP
+
+Many-limbed species have an extra set of limbs which can be used for a variety of purposes. Whether wielding weapons, holding advanced tools, or moving with a , the added dexterity of two extra arms cannot be understated. Members of Four-armed species are usually bulkier than other species, which lends them particularly well to physical professions, but they can also use their many limbs to assist as deft Pilots.

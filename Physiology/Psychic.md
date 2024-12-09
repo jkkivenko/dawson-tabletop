@@ -1,0 +1,3 @@
+#WIP
+
+Psychic species have telepathy, telekinesis, mind control, or another psychic ability stemming from deep inside their well-developed brains. Through mental training, meditation, or a natural gift, they are able to use these abilities to battle, assist in everyday tasks, and even communicate with people and machines. Members of Psychic species are natural Commanders with their telepathic communication, but they can also be effective Scientists due to their intimate understanding of the body and mind.

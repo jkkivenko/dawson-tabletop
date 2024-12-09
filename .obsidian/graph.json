@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#engineer",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#class OR tag:#physiology OR tag:#society",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#spacecraft-action  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#engineer  ",
+      "color": {
+        "a": 1,
+        "rgb": 10050774
+      }
+    },
+    {
+      "query": "tag:#commander  ",
+      "color": {
+        "a": 1,
+        "rgb": 9868800
+      }
+    },
+    {
+      "query": "tag:#animalistic",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.995808058391281,
+  "lineSizeMultiplier": 2.48052473245549,
+  "collapse-forces": false,
+  "centerStrength": 0.728855353356019,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8702726779334907,
+  "close": false
+}

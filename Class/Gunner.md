@@ -1,0 +1,3 @@
+#WIP
+
+The Gunner is a master of battle tactics and strategy, but they’d get offended if you got the impression that all they do is think. The Gunner is also proficient in all kinds of weapons, from plasma pistols and stun batons to starship artillery and particle cannons. They feel most at home with their finger on the trigger, and are probably a little too confident in their ability to fix any situation with enough firepower. They’re your best bet when it comes to identifying an enemy’s attack patterns, then blowing said enemy to pieces in a frightening display of violence.

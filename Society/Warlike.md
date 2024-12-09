@@ -1,0 +1,3 @@
+#WIP
+
+Warlike societies understand that, no matter what other societies delude themselves to believe, the ones with the most might survive. Perhaps out of fear, honour, or the thrill of the hunt, Warlike societies seek to accrue power through conquest and uneasy alliances. Members of these societies might strive to defeat bigger and bigger threats, bring honour to themselves, or protect their kin to their last breaths.
