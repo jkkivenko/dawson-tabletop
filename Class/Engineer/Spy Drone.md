@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Scout Drone]]
+Scout Drone
 
 # Description
 

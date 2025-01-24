@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Aquatic]]
+Aquatic
 
 # Description
 

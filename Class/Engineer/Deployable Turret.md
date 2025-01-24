@@ -1,9 +1,5 @@
 #WIP #engineer #spacecraft-action #engineer-creation
 
-# Prerequisites
-
-[[Engineer]]
-
 # Description
 
 You never leave your quarters without a belt of deployable machinery. When it comes down to combat, you can throw down puck of metal and servos which unfolds into an advanced turret, capable of tracking targets of your choosing.

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Large Lungs]]
+Large Lungs
 
 # Description
 

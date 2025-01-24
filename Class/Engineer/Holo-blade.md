@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Holo-suit]]
+Holo-suit
 
 # Description
 

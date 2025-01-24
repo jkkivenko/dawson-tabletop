@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Eagle Eye]]
+Eagle Eye
 
 # Description
 

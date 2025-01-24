@@ -1,9 +1,9 @@
 #WIP #engineer 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Extreme Bulk]]
-[[Jump Jets]]
+Extreme Bulk
+Jump Jets
 
 # Description
 

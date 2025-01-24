@@ -4,7 +4,7 @@
 
 Amid sparking electronics and blaring alarms, a dozen bodies lie motionless on the bridge of a Spacecraft. The computer's voice gives alerts to deaf ears:
 
-"Warning, shield integrity at 0%. Hull integrity at 34%. Weapons systems: offline. Warp reactor: offline. Ion drive: offline. Emergency generator at 12% output. Life support at 14%."
+"Warning, shield integrity at 0%. Hull integrity at 34%. Weapons systems: offline. FTL Drive: offline. Ion drive: offline. Emergency generator at 12% output. Life support at 14%."
 
 The emergency fire suppression system comes online as the bridge starts to fill with smoke. The alarms become quiet as the foaming fire extinguisher fills the air. Eventually, the computer seems satisfied that the fires have been put out and the alarms fade.
 
@@ -12,7 +12,7 @@ The emergency fire suppression system comes online as the bridge starts to fill 
 
 That would be a good recommendation, if anyone were alive to hear it. As the last of the foam dissipates and the final sparks fizzle out, the bridge becomes silent. 
 
-"Recommended action: repair warp reactor and return to Spacedock 45."
+"Recommended action: repair FTL drive and return to Spacedock 45."
 
 ...
 
@@ -52,6 +52,6 @@ The android in the engineering uniform takes a concerned glance over at the othe
 
 ...
 
-After exploring the ship, the four of you quickly realise that every organic crewmember is dead. Their cause of death seems to vary: some died from rapid depressurisation, others radiation, and some even have clear evidence of laser burns on their uniforms. The bridge was heavily damaged in an explosion, and the warp reactor and engineering lab are exposed to space.
+After exploring the ship, the four of you quickly realise that every organic crewmember is dead. Their cause of death seems to vary: some died from rapid depressurisation, others radiation, and some even have clear evidence of laser burns on their uniforms. The bridge was heavily damaged in an explosion, and the FTL drive and engineering lab are exposed to space.
 
 With the tools you find and a crew manifest, you realise that you're the only four androids on the crew - and your memory has been completely erased. 

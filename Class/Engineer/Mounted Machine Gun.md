@@ -2,8 +2,8 @@
 
 # Prerequisites (AND)
 
-[[Personal Machine Gun]]
-[[Extreme Bulk]]
+Personal Machine Gun
+Extreme Bulk
 
 # Description
 

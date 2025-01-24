@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Split Control]]
+Split Control
 
 # Description
 

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Laser Turret]]
+Laser Turret
 
 # Description
 

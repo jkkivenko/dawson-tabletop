@@ -1,9 +1,9 @@
 #WIP #animalistic 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Avian]]
-[[Predator]]
+Avian
+Predator
 
 # Description
 

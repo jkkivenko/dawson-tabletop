@@ -2,7 +2,7 @@
 
 # Prerequisite
 
-[[Upgraded Turret]]
+Upgraded Turret
 
 # Description
 

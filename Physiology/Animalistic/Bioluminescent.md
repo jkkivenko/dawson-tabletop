@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Patterned]]
+Patterned
 
 # Description
 

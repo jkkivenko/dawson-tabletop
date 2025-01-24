@@ -26,7 +26,7 @@ In some cases it might make sense for a Character to come from multiple Societie
 
 # Capabilities
 
-A Character's Capabilities represent what a Character has trained to do, either from their backstory or from levelling up in the game. Their Capabilities probably determine what they do during a regular day, from scavenging broken Warp Reactors to keeping peace between warring planets.
+A Character's Capabilities represent what a Character has trained to do, either from their backstory or from levelling up in the game. Their Capabilities probably determine what they do during a regular day, from scavenging broken FTL Drives to keeping peace between warring planets.
 
 A Character's Capabilities are a combination of their [[Class]] and their [[Skills]]. Their Class represents what they spend most of their time doing, and might even represent their profession or hobby. On the other hand, a Character's Skills are more nuanced personality traits and personal fascinations that help them out or change how they interact with the world. When designing a Character, pick a Class from the list one Skill to start. When you gain Class Tree Points, allocate them to the Class Tree outlined in your chosen Class. Skill Tree Points, unlike the other three types of Tree Points, are not restricted by a Class, Society, or Physiology. Any Character can choose to allocate points anywhere on the Skill Tree as long as they meet the requirements.
 

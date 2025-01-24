@@ -3,5 +3,6 @@
   "livePreview": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }

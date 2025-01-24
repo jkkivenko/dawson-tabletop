@@ -2,8 +2,8 @@
 
 # Prerequisites (AND)
 
-[[Armoured Turret]]
-[[Deployable Walls]]
+Armoured Turret
+Deployable Walls
 
 # Description
 

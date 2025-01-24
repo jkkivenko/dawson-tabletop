@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Deployable Labyrinth]]
+Deployable Labyrinth
 
 # Description
 

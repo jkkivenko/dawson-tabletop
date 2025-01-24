@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Chameleon]]
+Chameleon
 
 # Description
 

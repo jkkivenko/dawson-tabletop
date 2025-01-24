@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Drone Squad]]
+Drone Squad
 
 # Description
 

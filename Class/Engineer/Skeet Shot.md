@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Light Disc]]
+Light Disc
 
 # Description
 

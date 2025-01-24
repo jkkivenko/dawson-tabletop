@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Robotic Arms]]
+Robotic Arms
 
 # Description
 

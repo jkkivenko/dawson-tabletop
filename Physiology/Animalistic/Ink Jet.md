@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Aqua Jet]]
+Aqua Jet
 
 # Description
 

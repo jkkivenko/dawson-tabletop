@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Deployable Walls]]
+Deployable Walls
 
 # Description
 

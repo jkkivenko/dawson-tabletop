@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Drone Command Interface]]
+Drone Command Interface
 
 # Description
 

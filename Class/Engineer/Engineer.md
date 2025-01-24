@@ -2,11 +2,11 @@
 
 # Description
 
-As an Engineer, you provide an essential function aboard a starship: when something goes wrong, you can be trusted to come up with a quick solution to save the ship from certain disaster. Whether that means diverting power, modulating the shield frequency, or fixing a broken warp reactor, you are intimately familiar with the inner workings of a starship. However, you’re just as valuable when the fight becomes personal - you can use advanced tech to disable enemies and support allies on the battlefield.
+As an Engineer, you provide an essential function aboard a starship: when something goes wrong, you can be trusted to come up with a quick solution to save the ship from certain disaster. Whether that means diverting power, modulating the shield frequency, or fixing a broken FTL Drive, you are intimately familiar with the inner workings of a starship. However, you’re just as valuable when the fight becomes personal - you can use advanced tech to disable enemies and support allies on the battlefield.
 
 # Effects
 
-When you take the Engineer Class, you immediately gain the Computer Savvy and Hard Worker [[Skills|Skill Ability]]. Additionally, you gain the Holo-visor Engineer Creation.
+When you take the Engineer Class, you immediately gain the [[Computer Savvy]] and [[Hard Worker]] [[Skills|Skill Abilities]]. Additionally, you gain the Holo-visor Engineer Creation.
 
 ## Engineer Creation: Holo-visor
 

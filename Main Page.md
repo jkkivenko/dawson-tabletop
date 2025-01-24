@@ -34,7 +34,7 @@ No space adventure would be complete without a Starship. In a classic space adve
 
 ##### A Note on Spacecraft-less Adventures
 
-Dawson expects you'll own a Spacecraft, but that's not to say you can't play without them. However, certain abilities and features will be a lot less useful without Spacecraft, so make sure your Dawsoneers know they won't have a Spacecraft to use before Character creation.
+Dawson expects you'll own a Spacecraft, but that's not to say you can't play without them. However, certain abilities and features will be a lot less useful without Spacecraft, so make sure your Dawsoneers know they won't have a Spacecraft before Character creation.
 
 # [[Gear]]
 

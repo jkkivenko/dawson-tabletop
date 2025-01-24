@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Holo-squad]]
+Holo-squad
 
 # Description
 

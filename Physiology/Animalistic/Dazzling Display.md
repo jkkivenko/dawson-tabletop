@@ -1,9 +1,9 @@
 #WIP #animalistic 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Ink Jet]]
-[[Bioluminescent]]
+Ink Jet
+Bioluminescent
 
 # Description
 

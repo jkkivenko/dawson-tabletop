@@ -1,9 +1,9 @@
 #WIP #engineer 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Mounted Machine Gun]]
-[[Exoskeleton]]
+Mounted Machine Gun
+Exoskeleton
 
 # Description
 

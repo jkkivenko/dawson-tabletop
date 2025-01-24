@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Convergent Lift]]
+Convergent Lift
 
 # Description
 

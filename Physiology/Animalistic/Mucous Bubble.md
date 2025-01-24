@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Bubble]]
+Bubble
 
 # Description
 

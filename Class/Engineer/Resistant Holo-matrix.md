@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Durable Walls]]
+Durable Walls
 
 # Description
 

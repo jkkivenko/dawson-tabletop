@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Missile Turret]]
+Missile Turret
 
 # Description
 

@@ -2,8 +2,8 @@
 
 # Prerequisites (AND)
 
-[[Drone Swarm]]
-[[Converge]]
+Drone Swarm
+Converge
 
 # Description
 

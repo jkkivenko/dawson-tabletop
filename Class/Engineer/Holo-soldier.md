@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Holo-clone]]
+Holo-clone
 
 # Description
 

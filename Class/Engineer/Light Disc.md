@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Holo-blade]]
+Holo-blade
 
 # Description
 

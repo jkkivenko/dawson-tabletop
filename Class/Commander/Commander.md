@@ -1,21 +1,29 @@
-#WIP #class #commander #commander-action
+#WIP #class #commander #command
 
-# Introduction
+# Description
 
-The Commander provides a beacon for their allies in a dizzying galaxy. Whether through coordination or pure confidence, the Commander always has control over the situation. On a battlefield, this might mean rallying their allies. On a starship, this might mean giving orders and making crucial decisions. The rest of the time, it probably means taking care of the crew so they can work together when it matters most.
+As a Commander, your job is to keep a crew working together. You give orders, talk to your crew, and make tactical decisions to help your crew in combat. You might be a level-headed leader who your crew looks up to, a gung-ho daredevil who shoots first and asks questions later, or a clever underdog who uses tricks and careful plans to somehow come out on top.
 
-# Commander Abilities
+Regardless of your style, you're a leader who holds your crew together with Commands, special actions which change how you and your crew react to dangerous situations.
 
-Your party turns to you in times of need. You are full of wisdom and strength (or dex) and medium con. Also, you can use martial weapons or something. 
+# Effects
 
-When a battle breaks out, you’re the first to act. You gain a bonus to initiative rolls or something. Additionally, immediately before initiative is rolled, you can use the Commander Action listed below or one you've gained from another source. 
+When you take the Commander Class, you immediately gain the [[Diplomatic Knowledge]] and [[Space Savant]] [[Skills|Skill Abilities]]. Additionally, you gain the On My Mark! Command.
 
-### Commander Action: I’m Warning You!
+### Commands
 
-You realise combat is inevitable, and try to get one last word in before the fighting starts. You attempt to Intimidate an enemy within 10 metres or something.
+Commands are special actions which can only be used at the start of combat. You can choose to use a number of Commands equal to your Command Limit immediately after Initiative is rolled. Commands usually specify their effects up to your Command Range. If your allies leave this range or combat ends, the Command and its effects end.
 
-## Commander enables:
+Command Limit: `1`
+Command Range: `10m`
 
-[[Lead By Example]]
-[[Planner]]
-[[In Charge]]
+## Command: On My Mark!
+
+Using a whistle, hand signal, or coded phrase, you can indicate to your crew that the situation is about to change. After your crew roll Initiative, any ally within your Command Range can choose to use your Initiative value, moving their turn directly after yours.
+
+# Follow-on Abilities
+
+[[Inspirational Leader]] %% This subclass is all about buffing your allies for following your lead %%
+[[Change of Plans!]] %% This subclass is all about winging it %%
+[[Keep Your Friends Close]] %% This subclass is all about playing to your crew's strengths %%
+[[Tight-knit Crew]] %% This is a short branch which increases command limit and range %%

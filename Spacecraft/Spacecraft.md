@@ -1,39 +1,41 @@
-#WIP #spacecraft
+#WIP #spacecraft 
+
+# Description
 
 The galaxy is full of Spacecraft of all shapes and sizes, from the tiniest *Orbit*-class personal Spacecraft to massive *Nebula*-class flagships with crews the size of cities and beyond. This document outlines the main classes of Spacecraft and serves as a jumping-off point into the complex task of designing a Spacecraft from the ground up.
 
-Not all Spacecraft have the capacity to travel between stars. Those that can travel interstellar distances faster-than-light are commonly called Warp-capable, FTL-capable, lightspeed ships, or simply Starships. These are equipped with a Warp Reactor, a complex device required for lightspeed travel and beyond. Settled star systems sometimes use vessels without Warp Reactors for cheaper transport across short distances.
+Not all Spacecraft have the capacity to travel between stars. Those that can travel interstellar distances faster-than-light are commonly called FTL ships, lightspeed ships, or simply Starships. These are equipped with an FTL Drive, a complex device required for lightspeed travel and beyond. Settled star systems sometimes use non-FTL vessels for cheaper transport across short distances.
 
 # Spacecraft Classes
 
-Spacecraft are commonly categorized into classes to allow quick identification of their size and capabilities.
+Spacecraft are broadly classified into 5 classes, with each class corresponding to larger and more powerful craft. Most sensors can tell a Spacecraft's class from a quick scan, allowing Characters to conveniently identify a Spacecraft's general size and capabilities.
 
-## *Orbit*-class
+## [[Orbit-class]]
 
-*Orbit*-class Spacecraft are the smallest spacefaring vessels capable of carrying lifeforms. They usually only carry one pilot and a small number of passengers, if any at all. That's not to say they have no place in a Dawsoneer's arsenal - *Orbit*-class Spacecraft are often carried by larger vessels to provide a quick escape, a handy offensive option, or a means of shuttling passengers to and from the planetary surface. 
+![[Orbit-class#^909d4e]]
 
 | Example Vessels | Description |
 |---|---|
-| [[Escape Pod]] | A small auto-guided capsule capable of carrying a handful of passengers off a doomed vessel or station. If you have to be in one of these, you'd better hope there's rescue nearby. |
-| [[Old Starfighter]] | An antiquated fightercraft which can still pack a punch with its lasers. Capable of atmospheric flight, but not Warp. |
+| [[Escape Pod]] | A small auto-guided capsule capable of carrying a handful of passengers off a doomed vessel or station. If you're in one of these, you'd better hope there's rescue nearby. |
+| [[Old Starfighter]] | An antiquated fightercraft which can still pack a punch with its lasers. Capable of atmospheric flight, but not FTL. |
 | [[Orbital Ferry]] | A small yet comfortable shuttlecraft capable of ferrying passengers to and from orbit and little else. |
 | [[Long-range Shuttle]] | A small yet capable shuttlecraft, equipped for a variety of long-range missions. Capable of landing on planets, attacking with its plasma torpedoes, and going FTL, this shuttle is on the upper end of *Orbit*-class vessels. |
-| [[Starfighter]] | A very capable fightercraft with multiple weapon systems, advanced manoeuverability, and a small Warp Reactor. |
+| [[Starfighter]] | A very capable fightercraft with multiple weapon systems, advanced manoeuverability, and a small FTL Drive. |
 
-## *Escape*-class
+## [[Escape-class]]
 
-*Escape*-class Spacecraft are an intriguing middle ground between *Orbit*-class vessels which rarely leave their star system alone and *Astro*-class vessels which are capable of operating independently for extended periods. *Escape*-class vessels tend to be capable of FTL travel, but not capable of providing for a large crew or defending themselves.
+![[Escape-class#^e4b751]]
 
 | Example Vessels | Description |
 |---|---|
-| [[Interstellar Ferry]] | A medium-sized vessel with a powerful Warp Reactor, used for ferrying lots of passengers between stars with well-equipped ports |
-| [[Starliner]] | A medium-sized Warp-capable vessel designed for luxury cruising between the stars. |
+| [[Interstellar Ferry]] | A medium-sized vessel with a powerful FTL Drive, used for ferrying lots of passengers between stars with well-equipped ports |
+| [[Starliner]] | A medium-sized FTL-capable vessel designed for luxury cruising between the stars. |
 | [[Freighter]] | A relatively large vessel with a small crew but a large optionally-pressurised cargo bay. |
-| [[Private Spacecraft]] | A large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Some are equipped with weapons and most have Warp Reactors, but not all. |
+| [[Private Spacecraft]] | A large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Some are equipped with weapons and most have FTL Drives, but not all. |
 
-## *Astro*-class
+## [[Astro-class]]
 
-These are the most common class of Spacecraft seen in the Dawson galaxy. They are capable of undertaking extended missions lasting weeks or months, which grants them much more versatility in the galaxy at large. They often see use as scouts, attack craft, research vessels, and long-range trading ships.
+![[Astro-class#^d444b4]]
 
 | Example Vessels | Description |
 |---|---|
@@ -41,7 +43,7 @@ These are the most common class of Spacecraft seen in the Dawson galaxy. They ar
 | [[Patrol Vessel]] | A versatile military spacecraft with advanced weapon systems and long-range scanners. They are often found around contested borders or planetary blockades. |
 | [[Corvette]] | A military spacecraft built for durability and firepower, as well as increased speed over higher-class warships. |
 | [[Star Freighter]] | A commercial craft made for carrying goods long distances, potentially through uncertain space. Some are independently operated, but many also see use in convoys or are accompanied by warship escorts. |
-| [[Space Yacht]] | An extremely large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Equipped with a Warp Reactor, this vessel is capable of bringing the party anywhere in the sector. |
+| [[Space Yacht]] | An extremely large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Equipped with an FTL Drive, this vessel is capable of bringing the party anywhere in the sector. |
 | [[Science Vessel]] | A vessel equipped with advanced scientific scanners and labs with a crew of scientists. Science Vessels rarely have weapons installed, so they are usually escorted by a more capable vessel. |
 
 ## *Constellation*-class
@@ -65,24 +67,6 @@ These are the most common class of Spacecraft seen in the Dawson galaxy. They ar
 
 ## *Galaxy*-class
 
-*Galaxy*-class vessels are exceedingly rare. Many only hear of them in folk stories told by untrustworthy individuals, but make no mistake - *Galaxy*-class ships are real, although their power is certainly awesome. The size of small planets with weapons capable of punching clean through other ships, *Galaxy*-class warships are gods among mortals when it comes to destruction.
+*Galaxy*-class vessels are exceedingly rare. Many only hear of them in folk stories told by untrustworthy individuals, but make no mistake - *Galaxy*-class ships are real, although their power is certainly awesome. The size of small moons with weapons capable of punching clean through other ships, *Galaxy*-class warships are legendary.
 
 No example vessels are provided for the *Galaxy* class, because in a story they tend to function less like a Spacecraft and more like a planet or government. Rather than having Shields and Integrity, *Galaxy*-classes are basically indestructible. GMs should consider running them as setpieces in their campaigns rather than enemies, while Dawsoneers should never attempt to fight one head-on. 
-
-# Creating Your Own Spacecraft
-
-The above example Spacecraft provide an idea of what options are available in the galaxy, but they are only a tiny subset of the Spacecraft out there. Most GMs and Dawsoneers will want to create specific Spacecraft to suit their needs, whatever they may be.
-
-To create a brand new Spacecraft, take into account the considerations below.
-
-## Basic Role
-
-Start by sorting out your Spacecraft's role in the Dawson galaxy. Is it a small nimble personal craft? Or a huge battleship? Does it fill a specific niche, or is it an all-rounder? This role should influence every decision about a craft, including its Hull and Systems.
-
-## Spacecraft Hull
-
-![[Hulls#Description]]
-
-## Step 3: Systems
-
-![[Systems#Description]]

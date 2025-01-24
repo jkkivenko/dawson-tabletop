@@ -2,9 +2,9 @@
 
 # Prerequisites (AND)
 
-[[Shielded Turret]]
-[[Turret Multiplexing]]
-[[Shape Inductor]]
+Shielded Turret
+Turret Multiplexing
+Shape Inductor
 
 # Description
 

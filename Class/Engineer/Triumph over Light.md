@@ -1,9 +1,5 @@
 #WIP #engineer 
 
-# Prerequisites
-
-[[Overclocked Visual Processors]]
-
 # Description
 
 You've rebuilt your Holo-visor from the ground up, with advancements which would seem impossible to those without your capabilities.

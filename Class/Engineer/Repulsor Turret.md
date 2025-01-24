@@ -2,7 +2,7 @@
 
 # Prerequisite
 
-[[Shielded Turret]]
+Shielded Turret
 
 # Description
 

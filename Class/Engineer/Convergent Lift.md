@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Converge]]
+Converge
 
 # Description
 

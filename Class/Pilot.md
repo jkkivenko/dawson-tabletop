@@ -1,3 +1,0 @@
-#WIP
-
-The Pilot is a whiz behind the wheel of a starship, capable of pulling off daring stunts that would make the average person’s stomach turn. When it comes to flying fast, far, or with the grace of an eagle, the Pilot is the person you should ask for. They never strays too far from their trusted navigational controls, and even when they leave the safety of the starship bridge they keep their console close. Equipped with a burst pack and a sophisticated flight suit, the Pilot can fly all around the battlefield with ease.

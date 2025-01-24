@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Hardened]]
+Hardened
 
 # Description
 

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Skeet Shot]]
+Skeet Shot
 
 # Description
 

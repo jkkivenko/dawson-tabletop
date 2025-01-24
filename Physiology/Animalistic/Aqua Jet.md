@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Fast Swimmer]]
+Fast Swimmer
 
 # Description
 

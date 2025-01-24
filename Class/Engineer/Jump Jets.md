@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Rocket Enhancements]]
+Rocket Enhancements
 
 # Description
 

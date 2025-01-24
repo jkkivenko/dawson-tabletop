@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Armoured Turret]]
+Armoured Turret
 
 # Description
 

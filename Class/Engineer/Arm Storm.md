@@ -1,9 +1,9 @@
 #WIP #engineer 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Telescopic Punch]]
-[[Mechanical Arms]]
+Telescopic Punch
+Mechanical Arms
 
 # Description
 

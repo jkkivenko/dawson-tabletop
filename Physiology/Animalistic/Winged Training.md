@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Avian]]
+Avian
 
 # Description
 

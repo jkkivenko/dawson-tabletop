@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Resistant Holo-matrix]]
+Resistant Holo-matrix
 
 # Description
 

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Integrated Exo-suit]]
+Integrated Exo-suit
 
 # Description
 

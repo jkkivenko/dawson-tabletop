@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Visual Cortex Integration]]
+Visual Cortex Integration
 
 # Description
 

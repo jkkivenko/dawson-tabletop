@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Wing Shield]]
+Wing Shield
 
 # Description
 

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Bioluminescent]]
+Bioluminescent
 
 # Description
 

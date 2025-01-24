@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Mech Armour]]
+Mech Armour
 
 # Description
 

@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Jump Jets]]
+Jump Jets
 
 # Description
 

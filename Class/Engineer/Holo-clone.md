@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Holographic Versatility]]
+Holographic Versatility
 
 # Description
 

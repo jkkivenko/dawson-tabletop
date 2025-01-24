@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Deployable Turret]]
+Deployable Turret
 
 # Description
 

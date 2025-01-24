@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d16ec01f84f63a",
+        "id": "e6dc01ec6c56b6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "eb19ccb38594e7ab",
+            "id": "5b6223f4ff24e9f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/Engineer/Engineer.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Engineer"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physiology",
+                "query": "#spacecraft-action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/Engineer/Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Engineer"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters.md",
+                "file": "Spacecraft/Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Characters"
+              "title": "Outgoing links from Systems"
             }
           },
           {
@@ -149,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,44 +157,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb19ccb38594e7ab",
+  "active": "5b6223f4ff24e9f6",
   "lastOpenFiles": [
+    "Class/Pilot/Aerial Acrobat.md",
+    "Class/Pilot/Stealth Blast.md",
+    "Class/Pilot/Precision Targeting System.md",
+    "Class/Pilot/Improved Control.md",
+    "Class/Pilot/Overload.md",
+    "Class/Pilot/Eat My Flames.md",
+    "Class/Pilot/Rocket Tackle.md",
     "Class/Engineer/Deployable Turret.md",
-    "Class/Engineer/Far-wavelength Sensors.md",
-    "Class/Engineer/Drone.md",
-    "Class/Engineer/Integrated Exo-suit.md",
-    "Class/Engineer/Engineer.md",
-    "Class/Engineer/Holo-clone.md",
-    "Class/Engineer/Personal Spacecraft.md",
-    "Class/Engineer/Jump Jets.md",
-    "Spacecraft/Spacecraft/Old Starfighter.md",
-    "Spacecraft/Spacecraft.md",
-    "Class/Engineer/Rocket Enhancements.md",
-    "Spacecraft/Systems/Engines/Ion Thruster.md",
-    "Class/Engineer/War Machine.md",
-    "Class/Engineer/Exoskeleton.md",
-    "Class/Engineer/Extreme Bulk.md",
-    "Class/Engineer/Holographic Versatility.md",
-    "Class/Engineer/Thruster Suit.md",
-    "Class/Engineer/Overclocked Visual Processors.md",
-    "Class/Engineer/Visual Cortex Integration.md",
-    "Class/Engineer/Deployable Walls.md",
-    "Technobabble.md",
-    "Body Language.md",
-    "Physiology/Animalistic/Patterned.md",
-    "Physiology/Animalistic/Chameleon.md",
-    "Transparency.md",
-    "Physiology/Animalistic/Bioluminescent.md",
+    "Class/Pilot/It's Still A Backpack.md",
+    "Class/Pilot/Missile Launcher.md",
+    "Smokescreen.md",
+    "Class/Pilot/You're Coming With Me.md",
+    "Class/Pilot/Momentum.md",
+    "Spacecraft/Defence/Cloaking Device.md",
+    "Spacecraft/Defence/Area-denial Turret.md",
+    "Class/Commander/Commander.md",
+    "Class/Pilot/Hover.md",
+    "Class/Pilot/Extendable Wings.md",
+    "Class/Pilot/Personal Cloak.md",
+    "Class/Pilot/Ion Conversion.md",
+    "Class/Pilot/Pilot.md",
+    "Class/Pilot/Mobile Electrolysis Facility.md",
+    "Class/Pilot/Repulsor Conversion.md",
+    "Class/Pilot/Extra Fuel Tanks.md",
+    "Physiology/Animalistic/Hollow Bones.md",
+    "Physiology/Animalistic/Winged Training.md",
+    "Class/Pilot",
+    "Spacecraft/Astro",
+    "Spacecraft/Orbit",
+    "Spacecraft/Escape",
+    "Spacecraft/Orbit-class",
     "Physiology/Animalistic",
     "Class/Engineer",
     "Spacecraft/Spacecraft",
-    "Spacecraft/Systems/Warp Reactors",
-    "Spacecraft/Systems/Utility Systems",
-    "Spacecraft/Systems/Spacecraft Defence",
-    "Spacecraft/Systems/Spacecraft Weapons",
-    "Engines",
-    "Spacecraft/Systems/Engines",
-    "Spacecraft/Systems",
+    "Spacecraft/FTL Drives",
+    "Spacecraft/Utility Systems",
     "Class/Commander/Commander Plan.canvas",
     "Untitled 1.canvas"
   ]

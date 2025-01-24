@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Plasma Turret]]
+Plasma Turret
 
 # Description
 

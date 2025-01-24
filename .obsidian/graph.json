@@ -1,58 +1,72 @@
 {
   "collapse-filter": false,
-  "search": "tag:#engineer",
+  "search": "#pilot",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#class OR tag:#physiology OR tag:#society",
+      "query": "#class OR #physiology OR #society OR #spacecraft",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#spacecraft-action  ",
+      "query": "#spacecraft-action  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "tag:#engineer  ",
+      "query": "#engineer  ",
       "color": {
         "a": 1,
         "rgb": 10050774
       }
     },
     {
-      "query": "tag:#commander  ",
+      "query": "#commander  ",
       "color": {
         "a": 1,
         "rgb": 9868800
       }
     },
     {
-      "query": "tag:#animalistic",
+      "query": "#pilot",
+      "color": {
+        "a": 1,
+        "rgb": 15096924
+      }
+    },
+    {
+      "query": "#animalistic",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "#orbit OR #escape OR #astro OR #constellation OR #nebula OR #galaxy",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.995808058391281,
-  "lineSizeMultiplier": 2.48052473245549,
+  "nodeSizeMultiplier": 0.893347142082162,
+  "lineSizeMultiplier": 3.82629087143069,
   "collapse-forces": false,
-  "centerStrength": 0.728855353356019,
-  "repelStrength": 20,
+  "centerStrength": 0.322878137791587,
+  "repelStrength": 10.1819795827785,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.8702726779334907,
+  "linkDistance": 111,
+  "scale": 0.8360666864431552,
   "close": false
 }

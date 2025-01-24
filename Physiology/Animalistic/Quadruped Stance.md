@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Lunge]]
+Lunge
 
 # Description
 

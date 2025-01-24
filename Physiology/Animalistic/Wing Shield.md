@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Winged Training]]
+Winged Training
 
 # Description
 

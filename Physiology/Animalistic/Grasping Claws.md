@@ -2,8 +2,8 @@
 
 # Prerequisites
 
-[[Bite]]
-[[Climbing Digits]]
+Bite
+Climbing Digits
 
 # Description
 

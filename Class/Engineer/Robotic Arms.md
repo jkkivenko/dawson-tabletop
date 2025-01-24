@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Exoskeleton]]
+Exoskeleton
 
 # Description
 

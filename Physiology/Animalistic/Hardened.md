@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Predator]]
+Predator
 
 # Description
 

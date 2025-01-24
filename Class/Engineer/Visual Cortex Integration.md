@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Far-wavelength Sensors]]
+Far-wavelength Sensors
 
 # Description
 

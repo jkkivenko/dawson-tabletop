@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Bomber Drone]]
+Bomber Drone
 
 # Description
 

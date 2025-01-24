@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-[[Animalistic]]
+Animalistic
 
 # Description
 

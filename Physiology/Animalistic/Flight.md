@@ -1,9 +1,9 @@
 #WIP #animalistic 
 
-# Prerequisites
+# Prerequisites (AND)
 
-[[Zero-g Flight]]
-[[Hollow Bones]]
+Zero-g Flight
+Hollow Bones
 
 # Description
 
