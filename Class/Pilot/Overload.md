@@ -10,7 +10,7 @@ You gain the following actions:
 
 ## Action: Overload
 
-Choose an amount of fuel less than or equal to the amount remaining in your Blast Pack. With an Accuracy of `95%`, you immediately deal `10-13` Damage multiplied by the number of fuel units consumed to all lifeforms and objects within `4m` of you (including yourself). This consumes the amount of fuel chosen from your Blast Pack.
+Choose an amount of fuel less than or equal to the amount remaining in your Blast Pack. With an Accuracy of `95%`, you immediately deal `10-13` Plasma Damage multiplied by the number of fuel units consumed to all lifeforms and objects within `4m` of you (including yourself). This consumes the amount of fuel chosen from your Blast Pack.
 
 ## Action: Disable Safeties
 

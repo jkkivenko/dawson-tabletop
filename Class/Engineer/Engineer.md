@@ -6,11 +6,11 @@ As an Engineer, you provide an essential function aboard a starship: when someth
 
 # Effects
 
-When you take the Engineer Class, you immediately gain the [[Computer Savvy]] and [[Hard Worker]] [[Skills|Skill Abilities]]. Additionally, you gain the Holo-visor Engineer Creation.
+When you take the Engineer Class, you immediately gain the [[Tech Intuition]] and [[Hard Worker]] [[Skills|Skill Abilities]]. Additionally, you gain the Holo-visor Engineer Creation.
 
 ## Engineer Creation: Holo-visor
 
-You gain a holographic eyepiece, visor, or pair of glasses with a heads-up display which grants you crucial information, enhanced eyesight, and control over your creations. You can [[Scanner#Action: Scan|Scan]] without needing to hold a Scanner, and its range increases to `500m`. 
+You gain a holographic eyepiece, visor, or pair of glasses with a heads-up display which grants you crucial information, enhanced eyesight, and control over your creations. You can [[Scanner#Action: Scan|Scan]] without needing to hold a Scanner, and its range increases to `100m` (though you do not gain the other benefits of holding a Scanner). 
 
 # Follow-on Abilities
 

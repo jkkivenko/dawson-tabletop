@@ -6,9 +6,13 @@ The galaxy is full of Spacecraft of all shapes and sizes, from the tiniest *Orbi
 
 Not all Spacecraft have the capacity to travel between stars. Those that can travel interstellar distances faster-than-light are commonly called FTL ships, lightspeed ships, or simply Starships. These are equipped with an FTL Drive, a complex device required for lightspeed travel and beyond. Settled star systems sometimes use non-FTL vessels for cheaper transport across short distances.
 
+# Building a Spacecraft
+
+Whether you're a GM looking to populate your world or a Player trying to build your  dream ship, there is a simple process to help guide you through building a vessel. First, select your Spacecraft's Class (see below) and start with the base Spacecraft for that class. Congratulations! You've already built a Spacecraft which can fly around in space and might even have some other systems pre-installed. Next (and I'm sorry that this is how I did it) navigate to the graph view in Obsidian and filter by the tag corresponding to your Spacecraft's class. This should show you a branching tree of all the possible upgrades your Spacecraft can have, but note that the arrows indicate pre-requisites. You can only choose an ability if you already have all the upgrades with arrows pointing towards it.
+
 # Spacecraft Classes
 
-Spacecraft are broadly classified into 5 classes, with each class corresponding to larger and more powerful craft. Most sensors can tell a Spacecraft's class from a quick scan, allowing Characters to conveniently identify a Spacecraft's general size and capabilities.
+Spacecraft are broadly classified into 5 classes, corresponding to progressively larger and more powerful craft. Most sensors can tell a Spacecraft's class from a quick scan, allowing Characters to conveniently identify a Spacecraft's general size and capabilities. Multiple example craft are provided for inspiration, but the limits of Spacecraft creation are far beyond the selection given below.
 
 ## [[Orbit-class]]
 
@@ -29,9 +33,9 @@ Spacecraft are broadly classified into 5 classes, with each class corresponding 
 | Example Vessels | Description |
 |---|---|
 | [[Interstellar Ferry]] | A medium-sized vessel with a powerful FTL Drive, used for ferrying lots of passengers between stars with well-equipped ports |
-| [[Starliner]] | A medium-sized FTL-capable vessel designed for luxury cruising between the stars. |
-| [[Freighter]] | A relatively large vessel with a small crew but a large optionally-pressurised cargo bay. |
-| [[Private Spacecraft]] | A large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Some are equipped with weapons and most have FTL Drives, but not all. |
+| [[Starliner]] | A medium-sized FTL-capable vessel designed for luxury cruising for passengers between the stars. |
+| [[Freighter]] | A relatively large vessel with a small crew but a large cargo bay. |
+| [[Private Spacecraft]] | A large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Some are equipped with weapons and most have FTL Drives. |
 
 ## [[Astro-class]]
 
@@ -41,8 +45,8 @@ Spacecraft are broadly classified into 5 classes, with each class corresponding 
 |---|---|
 | [[Exploration Vessel]] | A vessel with a crew complement between 5 and 15, used by interstellar coalitions to scout star systems for life, resources, or scientific discoveries. |
 | [[Patrol Vessel]] | A versatile military spacecraft with advanced weapon systems and long-range scanners. They are often found around contested borders or planetary blockades. |
-| [[Corvette]] | A military spacecraft built for durability and firepower, as well as increased speed over higher-class warships. |
-| [[Star Freighter]] | A commercial craft made for carrying goods long distances, potentially through uncertain space. Some are independently operated, but many also see use in convoys or are accompanied by warship escorts. |
+| [[Corvette]] | A military spacecraft built for durability and firepower, as well as greater manoeuvrability than higher-class warships. |
+| [[Star Freighter]] | A commercial craft made for carrying goods long distances, potentially through uncertain space. Some are independently operated, but many also see use in convoys accompanied by warship escorts. |
 | [[Space Yacht]] | An extremely large personal spacecraft used for travel, hosting parties, and flaunting one's wealth. Equipped with an FTL Drive, this vessel is capable of bringing the party anywhere in the sector. |
 | [[Science Vessel]] | A vessel equipped with advanced scientific scanners and labs with a crew of scientists. Science Vessels rarely have weapons installed, so they are usually escorted by a more capable vessel. |
 
@@ -57,7 +61,7 @@ Spacecraft are broadly classified into 5 classes, with each class corresponding 
 
 ## *Nebula*-class
 
-*Nebula*-class vessels are so enormous and well-defended that even a non-combat *Nebula*-class ship is basically indestructible. These vessels have crew complements in the thousands or tens of thousands, and many can be compared to entire cities in size and function. 
+*Nebula*-class vessels are so enormous and well-defended that even a civilian *Nebula*-class ship is basically indestructible. These vessels have crew complements in the thousands or tens of thousands, and many can be compared to entire cities in size and function. 
 
 | Example Vessels | Description |
 |---|---|

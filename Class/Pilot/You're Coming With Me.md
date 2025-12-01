@@ -10,4 +10,4 @@ You gain the You're Coming With Me action:
 
 ## Action: You're Coming With Me
 
-You grab an adjacent lifeform and immediately Blast Off, moving them with you.
+You target an adjacent lifeform and immediately Blast Off, moving your target with you.

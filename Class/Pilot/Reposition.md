@@ -8,9 +8,9 @@ In your opinion, a Blast Pack is a precision tool for repositioning on a chaotic
 
 You gain the following actions:
 
-## Action: Tactical Blast
+## Action: Reposition
 
-If you're experiencing less than `200%` gravity, you immediately fly up to `20m`, as long as there are no hostile enemies (to your knowledge) within `10m` of your landing site.
+If you're experiencing less than `200%` gravity, you immediately fly up to `30m` in any direction. If you're not grounded after this movement, you fall unless you're in zero gravity. This consumes 2 unit of fuel from your Blast Pack.
 
 ## Action: Precise Manoeuvre
 
@@ -22,4 +22,4 @@ With some fancy steering, you put the Spacecraft in an advantageous position. Yo
 
 [[Hover]]
 [[Stealth Blast]]
-[[Precision Targeting System]]
+[[Gyroscopic Tripod]]

@@ -20,9 +20,9 @@ You rev the engines, blasting hot exhaust at a Spacecraft on your tail. Choose a
 
 | Engine Type | Effect |
 |-------------|--------|
-| Chemical | Deal `12-17` Plasma damage to the target, and move it backward `22m`. |
+| Chemical | Deal `14-24` Plasma damage to the target, and move it backward `22m`. |
 | Ion | Deal `19-25` Plasma damage to the target's Shields. |
-| Repulsor | Deal `24-26` Repulsor damage to the target. |
+| Repulsor | Deal `20-22` Repulsor damage to the target. |
 
 # Follow-on Abilities
 

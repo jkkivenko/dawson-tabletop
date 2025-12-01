@@ -12,7 +12,7 @@ When you take the Pilot Class, you immediately gain the [[Piloting Prowess]] and
 
 ### Rocket Fuel
 
-Your Blast Pack can only store 3 units of fuel, but don't worry - it contains a tiny electrolysis device which can create more fuel out of eco-friendly humid air! Isn't the future amazing? All it takes is 8 hours of idling inside an atmosphere and it's good as new, though it can always be topped off with fuel from another source in a pinch.
+Your Blast Pack can only store 3 units of fuel, but don't worry - it contains a tiny electrolysis device which can create more fuel out of eco-friendly humid air! Isn't the future amazing? It's fully refueled after just 8 hours of idling inside an atmosphere, though it can always be topped off with chemical fuel from another source.
 
 ## Action: Blast Off
 
@@ -21,6 +21,6 @@ If you're experiencing less than `200%` gravity, you immediately fly up to `16m`
 # Follow-on Abilities
 
 [[It's Still A Backpack]]  %% Utility %%
-[[Improved Control]] %% Sniping %%
+[[Reposition]] %% Sniping %%
 [[Rocket Tackle]] %% Close quarters %%
 

@@ -10,4 +10,4 @@ Your Blast Pack can carry up to `6` units of fuel.
 
 # Follow-on Abilities
 
-[[Mobile Electrolysis Facility]]
+[[Electrolytic Capacitance Cell]]

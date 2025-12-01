@@ -22,32 +22,6 @@ You can see the status and integrity of the FTL Drive, if one is present. You ca
 
 These abilities can be used by any Character operating a Helm Workstation. This Workstation displays information about the Ship's heading and velocity and allows for manual flying as well as autopilot control.
 
-## Action: Move
-
-**Special: A Ship cannot Move more than once on its turn, even if multiple crewmembers take the Move action.**
-
-You manually control the Ship's engines and thrusters. The Ship immediately moves up to its Speed along any trajectory as long as it does intersect with obstacles.
-
-## Action: Evasive Manoeuvre
-
-You input a command, causing the Ship to undertake a preprogrammed manoeuvre. The Ship gains `+10%` Evasion Chance.
-
-## Action: Plot a Course
-
-With the help of the Ship's autopilot, you create a Course between any two known locations. These can be well-known locations, locations in the Ship's sensor log, or locations found on a star chart. 
-
-## Action: Engage FTL Drive
-
-**Requirement: The Ship is equipped with an FTL Drive.**
-
-You bring the Ship up to FTL speeds, causing the Ship to move at your choice of FTL factor up to and including its FTL Drive's Maximum Factor. As the stars stretch towards the horizon, the Ship can no longer Move. It immediately follow its current plotted Course. Taking this action again returns the ship's FTL Drive to standby mode, allowing the Spacecraft to Move as normal.
-
-## Action: Activate Landing Sequence
-
-**Requirement: The Spacecraft has Landing Struts, a non-zero Speed, and is within `100km` of the landing zone.**
-
-You activate the Spacecraft's landing sequence, extending landing struts, wheels, or skids. You descend towards the landing zone and bring the Ship in for a safe landing. 
-
 ## Passive: Trajectory Status
 
 You can see the Ship's heading, track, speed (including Warp Speed), and current Course.
