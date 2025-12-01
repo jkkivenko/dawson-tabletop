@@ -1,3 +1,0 @@
-#WIP
-
-Communal societies put the needs of the many over the needs of the few. They might live in communes with strict but respected governments, or they might be members of a hive mind where individuality is completely impossible. Members of these societies might strive to fight inequality or bring others into their commune, and they probably don’t understand other societies’ attachment to selfishness and greed.

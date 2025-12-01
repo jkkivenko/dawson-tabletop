@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b6223f4ff24e9f6",
+            "id": "c72bd45f3ecf11e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#spacecraft-action",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction"
             }
           },
           {
@@ -107,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spacecraft/Systems.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Systems"
+              "title": "Outgoing links from Introduction"
             }
           },
           {
@@ -122,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -134,21 +142,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters.md"
+                "file": "Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline of Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
+    "width": 292.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b6223f4ff24e9f6",
+  "active": "c72bd45f3ecf11e2",
   "lastOpenFiles": [
-    "Class/Pilot/Aerial Acrobat.md",
-    "Class/Pilot/Stealth Blast.md",
-    "Class/Pilot/Precision Targeting System.md",
-    "Class/Pilot/Improved Control.md",
-    "Class/Pilot/Overload.md",
-    "Class/Pilot/Eat My Flames.md",
-    "Class/Pilot/Rocket Tackle.md",
-    "Class/Engineer/Deployable Turret.md",
-    "Class/Pilot/It's Still A Backpack.md",
-    "Class/Pilot/Missile Launcher.md",
-    "Smokescreen.md",
-    "Class/Pilot/You're Coming With Me.md",
-    "Class/Pilot/Momentum.md",
-    "Spacecraft/Defence/Cloaking Device.md",
-    "Spacecraft/Defence/Area-denial Turret.md",
-    "Class/Commander/Commander.md",
-    "Class/Pilot/Hover.md",
-    "Class/Pilot/Extendable Wings.md",
-    "Class/Pilot/Personal Cloak.md",
-    "Class/Pilot/Ion Conversion.md",
-    "Class/Pilot/Pilot.md",
-    "Class/Pilot/Mobile Electrolysis Facility.md",
-    "Class/Pilot/Repulsor Conversion.md",
-    "Class/Pilot/Extra Fuel Tanks.md",
-    "Physiology/Animalistic/Hollow Bones.md",
-    "Physiology/Animalistic/Winged Training.md",
-    "Class/Pilot",
-    "Spacecraft/Astro",
-    "Spacecraft/Orbit",
-    "Spacecraft/Escape",
-    "Spacecraft/Orbit-class",
-    "Physiology/Animalistic",
-    "Class/Engineer",
-    "Spacecraft/Spacecraft",
-    "Spacecraft/FTL Drives",
-    "Spacecraft/Utility Systems",
+    "Characters/Class.md",
+    "README.md",
+    "Spacecraft",
+    "Introduction.md",
+    "Characters/Society.md",
+    "Characters/Skill.md",
+    "Characters/Physiology.md",
+    "Characters/Abilities/Skill",
+    "Characters/Abilities/Society/Adaptable.md",
+    "Characters/Abilities/Physiology/Synthetic.md",
+    "Characters/Abilities/Physiology/Animalistic.md",
+    "Characters/Abilities",
+    "Characters",
+    "Spacecraft.md",
+    "Workstations.md",
+    "Playing the Game.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Items.md",
+    "Core Tenets.md",
+    "Combat.md",
+    "Characters/Abilities/Society/Warlike.md",
+    "Characters/Abilities/Society/Reclusive.md",
+    "Characters/Abilities/Society/Communal.md",
+    "Characters/Abilities/Society/Artful.md",
+    "Characters/Abilities/Physiology/Extremophile.md",
+    "Characters.md",
+    "Spacecraft/Astro/Astro Hull Upgrade I.md",
+    "Skills/Cyberbrute.md",
+    "Spacecraft/Astro/Astro-class.md",
+    "Spacecraft/Engines/Ion Drive.md",
+    "Spacecraft/Engines/Impulse Drive.md",
+    "Items/Weapons",
+    "Items",
+    "Skills",
+    "Characters/Abilities/Class/Pilot",
     "Class/Commander/Commander Plan.canvas",
     "Untitled 1.canvas"
   ]

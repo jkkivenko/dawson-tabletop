@@ -1,3 +1,0 @@
-#WIP
-
-Synthetic species are partially or completely made of metal, machinery, circuits, holograms, or some other non-organic material. Whether they are born with these features, have them grafted on, or are completely artificial lifeforms, Synthetic species have capabilities impossible for non-synths. These abilities include advanced mental capabilities, bodies resistant to ageing, and specialised body parts, which usually make Synthetic species obviously non-organic to non-synths. Members of a Synthetic species might find themselves at home with other machines, becoming Engineers, Scientists, or Pilots, or they might be curious to explore the unfamiliar as Commanders. They might even become Gunners, interfacing directly with weaponry as battle machines.
